@@ -1,1 +1,2 @@
-# gpaCalculator
+# Simple banking system
+
